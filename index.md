@@ -22,7 +22,7 @@ I am a postgraduate student interested in turning messy data into clear, evidenc
 
 **Research question:** How did Apple, IBM, Microsoft and Starbucks compare with the S&P 500 in cumulative growth, volatility, risk-adjusted return and maximum drawdown?
 
-![Cumulative growth of a $100 investment](images/01_cumulative_growth.png)
+![Cumulative growth of a $100 investment](https://raw.githubusercontent.com/yujie212689543/data-science-project/main/figures/01_cumulative_growth.png)
 
 The analysis shows that Apple produced the strongest cumulative and risk-adjusted return in the selected sample, turning an indexed $100 investment into approximately $907. The S&P 500 had the lowest volatility, while Starbucks experienced the deepest drawdown at 80.2%. The results illustrate the central trade-off in investing: higher returns often came with substantially greater variability and downside risk.
 
